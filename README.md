@@ -1,2 +1,12 @@
-# 100---Days---OF---Code---Python-
-Tracking my 100 days of Python challenge by CodeWithHarry as a 1st-year AI/ML student.
+# 🚀 100 Days of Code: Python Challenge
+
+I am a (" 1st-year B.Tech AI & ML student")starting from absolute zero. I am coding entirely on my **mobile phone** using the Pydroid 3 app.
+
+## 🗂️ Current Progress
+
+* **Day 1:**Introduction to Python & Setup ➡️ [View Code](day01.py)
+* **Day 2:** My First Python Program (Print) ➡️ *[Coming Tomorrow]*
+
+---
+**Consistency matters more than speed.**
+
