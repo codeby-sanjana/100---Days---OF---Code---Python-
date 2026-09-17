@@ -10,6 +10,8 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 4:** Master Python Comments ➡️ [View Code](day04.py)
 * **Day 5:** More on Print Statements ➡️ [View Code](day05.py)
 * **Day 6:** Variables & Data Types ➡️ [View Code](day06.py)
+* **Day 7:** Python Operators  ➡️ [View Code](day07.py)
+  
   
 
   
