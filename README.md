@@ -14,6 +14,7 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 8:** Exercise 1 create a calculator capable to performing add,sub, multi, div ➡️ [View Code](day08.py)
 * **Day 9:** Typecasting in python ➡️ [View Code](day09.py)
 * **Day 10:** Taking user input ➡️ [View Code](day10.py)
+* **Day 11:** String in python  ➡️ [View Code](day11.py)
 
   
   
