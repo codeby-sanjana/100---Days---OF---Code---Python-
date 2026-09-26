@@ -19,7 +19,7 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 13:** String Methods in python ➡️ [View Code](day13.py)
 * **Day 14:** Conditional Statements in Python ➡️ [View Code](day14.py)
 * **Day 15:** Exercise 2 :- Good Morning sir ➡️ [View Code](day15.py)
-  
+* **Day 16:** Match Case statement ➡️ [View Code](day16.py) 
   
   
 
