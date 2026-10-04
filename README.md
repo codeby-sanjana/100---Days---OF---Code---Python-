@@ -24,8 +24,10 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 18:** While loop in python ➡️ [View Code](day18.py)
 * **Day 19:** Break and Continue Statements ➡️ [View Code](day19.py)
 * **Day 20:** Python Functions ➡️ [View Code](day20.py)
-* **Day 21:** Function Arguments ➡️ [View Code](day21.py)
-* **Day 22:** Introduction to Lists ➡️ [View Code](day22.py) 
+* **Day 21:** Function Arguments ➡️ [View Code](day21.py) 
+* **Day 22:** Introduction to Lists ➡️ [View Code](day22.py)
+* **Day 23:** List Method ➡️ [View Code](day23.py)
+* **Day 24:** Introduction to Tuple ➡️ [View Code](day24.py)
   
   
 
