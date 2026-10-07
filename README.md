@@ -30,6 +30,7 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 24:** Introduction to Tuples ➡️ [View Code](day24.py)
 * **Day 25:** Manipulating Tuples ➡️ [View Code](day25.py)
 * **Day 26:** Solution of Exercise 2 ➡️ [View Code](day26.py)
+* **Day 27:** Exercise 3 ➡️ [View](day27.py)
   
   
 
