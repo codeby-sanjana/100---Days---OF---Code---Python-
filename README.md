@@ -34,6 +34,7 @@ I am a 1st-year B.Tech AI & ML student starting from absolute zero. I am coding 
 * **Day 28:** F'string in python ➡️ [View Code](day28.py)
 * **Day 29:** Docstring in python ➡️ [View Code](day29.py)
 * **Day 30:** Rescursive  ➡️ [View Code](day30.py)
+* **Day 31:** Sets in Python ➡️ [View Code](day31.py)
   
   
 
